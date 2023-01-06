@@ -2,7 +2,7 @@
 body {
   color: rgb(255, 255, 255);
   font-weight: 400;
-  font-size: larger;
+  font-size: medium;
   background-image: url(/pics/background5.jpg);
   background-attachment: fixed;
 }
@@ -46,5 +46,8 @@ a:visited {
   width: 750px;
   padding-left: 200px;
   padding-right: 200px;
+}
 
+.head {
+  font-size: larger;
 }
