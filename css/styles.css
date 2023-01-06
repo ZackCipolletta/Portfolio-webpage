@@ -1,10 +1,14 @@
 
- body {
+body {
   color: white;
   box-sizing: border-box;
 }
-ul {
+
+ol {
   margin: 0px;
+  float: left;
+  margin-right: 200px;
+  width: 500px;
 }
 
 .sub-head p {
@@ -25,10 +29,18 @@ p {
   width: 25%;
   height: auto;
   display: block;
+  margin-bottom: 50px;
 }
 
-
-ul {
-  float: left;
-  margin-right: 200px;
+.right {
+  width: 500px;
+  float: right;
+  margin-right: 0px;
+  padding-right: 0px;
+}
+.right p {
+  width: 500px;
+  float: right;
+  margin-right: 0px;
+  padding-right: 0px;
 }
