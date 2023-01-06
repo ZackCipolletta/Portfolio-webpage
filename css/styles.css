@@ -2,6 +2,16 @@
 body {
   color: white;
   box-sizing: border-box;
+  background-color: rgb(29, 29, 29);
+  font-weight: 900;
+}
+
+a:link {
+  color: aqua;
+}
+
+a:visited {
+  color: hotpink;
 }
 
 ol {
@@ -35,12 +45,8 @@ p {
 .right {
   width: 500px;
   float: right;
-  margin-right: 0px;
-  padding-right: 0px;
 }
 .right p {
   width: 500px;
   float: right;
-  margin-right: 0px;
-  padding-right: 0px;
 }
