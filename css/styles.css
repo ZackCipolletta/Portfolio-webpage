@@ -36,18 +36,36 @@ a:visited {
   width: 500px;
 }
 
-.about {
-  width: 500px;
-  float: right;
+.skills {
+  
 }
 
-.bio {
+.about {
+  width: 250px;
+  float: right;
+  padding: 5px 10px 0px 10px;
+  border: solid white;
+  border-width: 1px;
+  box-sizing: border-box;
+}
+
+.exp {
   float: left;
   width: 750px;
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 25%;
+  padding-right: 25%;
+  margin-top: 50px;
+  margin-bottom: 250px;
 }
 
 .head {
   font-size: larger;
 }
+
+width: 50%;
+border-width: 20px;
+border: solid white;
+border-width: 1px;
+background-color: orange;
+margin-bottom: 10px;
+box-sizing: border-box;
