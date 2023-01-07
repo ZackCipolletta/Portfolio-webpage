@@ -32,21 +32,27 @@ a:visited {
 .projects ol {
   margin-top: 0px;
   margin-bottom: 25px;
+  margin-right: 20px;
   float: left;
   width: 500px;
 }
 
 .skills {
-  
+  width: 200px;
+  float: left;
+  padding-left: 50px;
 }
 
 .about {
   width: 250px;
   float: right;
   padding: 5px 10px 0px 10px;
-  border: solid white;
-  border-width: 1px;
+  border: 1px solid white;
   box-sizing: border-box;
+}
+
+.clear {
+  color: transparent;
 }
 
 .exp {
