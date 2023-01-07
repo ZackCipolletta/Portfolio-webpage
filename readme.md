@@ -22,7 +22,7 @@ This is a basic webpage which will act as a landing page for my programming port
 ## Known Bugs
  * At this time I would like to update the skills section to be centered and automatically float as the page is resized.  I would also like to find a better background image and color scheme to make the page more user friendly and aesthetically pleasing.
 
- ##License
+## License
 MIT
 
 Copyright (c) 1/6/2023 Zachary Cipolletta
