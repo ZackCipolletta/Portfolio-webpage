@@ -13,10 +13,11 @@
 
 This is a basic webpage which will act as a landing page for my programming portfolio.  It will be updated as I create more complicated and dynamic projects.  I will link my corresponding GitHub repos and pages here along with a brief description of each project.
 
-##
+## Setup/Installation Requirements
 
 * Clone repository to your desktop
-* Open with VS code or other text editor
+* Navigate to the top level of the directory
+* open Portfolio-webpage/index.html in your browser.
 * Alternatively you may wish to havigate to the GitHub pages version --> https://zackcipolletta.github.io/Portfolio-webpage/ (you will need a dark theme enabled on your browser to view the gh pages version.)
 
 ## Known Bugs
